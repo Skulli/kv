@@ -1,3 +1,4 @@
+![Testing](https://github.com/Skulli/kv/actions/workflows/elixir.yml/badge.svg?branch=main)
 # KV
 
 Tutorial from https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
